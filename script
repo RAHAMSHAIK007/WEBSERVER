@@ -1,6 +1,4 @@
-#! /bin/bash
-sudo -i
-apt update -y
-apt install apache2 -y      
+apt update		
+apt install apache2 	
 git clone https://github.com/Ironhack-Archive/online-clone-amazon.git
-cp  online-clone-amazon/* /var/www/html -r
+mv online-clone-amazon/* /var/www/html
