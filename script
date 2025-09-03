@@ -2,3 +2,6 @@ apt update
 apt install apache2 	
 git clone https://github.com/Ironhack-Archive/online-clone-amazon.git
 mv online-clone-amazon/* /var/www/html
+
+EXAM LINK:
+https://forms.gle/qnMtYYd4HgvzDdae7
